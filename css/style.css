@@ -1,0 +1,98 @@
+.bg-theme {
+	background-color: #826600;
+}
+.theme-color {
+	color:#e0b310;
+}
+
+nav a {
+	color:white;
+
+}
+
+
+#hero .jumbotron {
+	height: 80vh;
+	border-radius: 0;
+	background-image: linear-gradient(#826600, #bda240, #edd787);
+
+}
+
+
+#hero img {
+	width: 40%;
+}
+
+
+
+
+#main-head {
+	 font-family: "Bebas Neue", sans-serif;
+	 letter-spacing: 3px;
+	 color:#826600;
+}
+
+#sub-head {
+	font-family: tahoma
+}
+
+hr {
+	border: 1px solid #bda240;
+	width: 30%;
+	margin-bottom: 50px;
+}
+
+#about-us p {
+	text-align: justify;
+	font-size: 20px;
+}
+#about-us ul {
+	list-style: none;
+}
+#about-us ul li {
+	line-height: 30px;
+}
+
+#about-us i {
+	color: #826600;
+}
+
+
+#pop-courses .course-title {
+	font-weight: bold;
+	font-size: 16px;
+	font-family: verdana;
+	color:#826600;
+}
+
+#pop-courses .course-duration {
+	font-size: 14px;
+	font-family: arial;
+}
+
+#pop-courses .course-special {
+	letter-spacing: 1px;
+	font-family: comic sans ms;
+}
+
+
+.responsive {
+	height: 200px;
+	display: flex;
+	justify-content: center;
+	border:2px solid red;
+}
+
+
+ .place-box {
+border:2px solid red;
+text-align: center;
+ }
+
+
+ .place-box img {
+	width: 100px;
+	height: 100px;
+	border:2px solid red;
+
+}
